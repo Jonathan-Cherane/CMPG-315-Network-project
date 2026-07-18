@@ -1,0 +1,1 @@
+The CMPG315 Packet Tracer project requires students to design a cost‑effective office network using Cisco Packet Tracer. It includes phases on skills reflection, group ethics, documentation, and a full network design with demos, focusing on efficiency, robustness, and teamwork.
